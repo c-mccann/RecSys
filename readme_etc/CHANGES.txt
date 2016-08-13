@@ -1,0 +1,28 @@
+Old Structure
+
+Main    -> Recommender_System.py
+
+classes -> Week1 in Week_1.py
+           Week2 in Week_2.py
+           Week3 in Week_3.py
+
+Changes
+
+Week 1 split into DataHandler and General Statistics
+Week 2 made into SimplePrediction,
+Week 3 split into Neighbourhoods and prediction, which week 4 and 5 will add to
+Extra modules removed from important classes bar the extra neighbourhood i created which i left in neighbourhoods
+
+New Structure
+
+Main    -> Recommender_System.py
+
+classes -> DataHandler in Data_Handler.py
+classes -> GeneralStatistics in General_Statistics.py
+classes -> SimplePrediction in Simple_Prediction.py
+classes -> Neighbourhoods in Neighbourhoods.py
+classes -> Prediction in Prediction.py
+classes -> Extras in Extras.py
+classes -> Graphing in Graphing.py
+
+

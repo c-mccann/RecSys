@@ -1,0 +1,5 @@
+Rated:                   100000
+Non-Rated:               1486126
+Total Possible Ratings:  1586126
+Ratio (Rated vs Non):    0.06728904547797428
+Density Metric:          0.06304669364224531

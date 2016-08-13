@@ -1,0 +1,28 @@
+Total number of users:              943
+Total number of items:              1682
+Total number of ratings:            100000
+Density Metric:                     6.3%
+
+Mean for all users:                 3.52986
+Median for all users:               4.0
+Standard Deviation for all users:   1.12566797076
+Min for all users:                  1
+Max for all users:                  5
+
+Mean for all items:                 3.52986
+Median for all items:               4.0
+Standard Deviation for all items:   1.12566797076
+Min for all items:                  1
+Max for all items:                  5
+
+Total number of ratings of class 1: 6110
+Total number of ratings of class 2: 11370
+Total number of ratings of class 3: 27145
+Total number of ratings of class 4: 34174
+Total number of ratings of class 5: 21201
+
+Mean for all users:                 3.52986
+Median for all users:               4.0
+Standard Deviation for all users:   1.12566797076
+Min for all users:                  1
+Max for all users:                  5
